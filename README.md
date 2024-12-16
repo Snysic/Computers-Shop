@@ -27,8 +27,8 @@ This repository is part of coursework for the Full Stack Web Development course 
 
 ## UML Diagram
 
-![Class Diagram]()
+![Class diagram](<images/Computer Shop.drawio.png>)
 
 ## Test
 
-![Tests]()
+![Tests](images/coverage.bmp)
